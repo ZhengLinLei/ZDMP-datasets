@@ -6,6 +6,12 @@ Dataset repository for [ZDMP](https://github.com/ZhengLinLei/ZDMP) project.
 ## Datasets
 All datas in this repositories comes from [https://dbox.iti.upv.es/oc/index.php/s/y7wHzDHkRaQNjsC](https://dbox.iti.upv.es/oc/index.php/s/y7wHzDHkRaQNjsC) [ITI Company](https://www.iti.es).
 
+## Download
+```bash
+git clone https://github.com/ZhengLinLei/ZDMP_datasets.git
+```
+
+Or download the zip file from [dist](https://github.com/ZhengLinLei/ZDMP-datasets/releases/tag/dist) release.
 
 ## Citation
 If you use this dataset, please cite the following text in your project or paper:
